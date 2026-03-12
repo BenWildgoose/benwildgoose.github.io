@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ben Wildgoose&#39;s Website</title>
-    <link>http://localhost:1313/portfolio/</link>
+    <link>https://benwildgoose.github.io/portfolio/</link>
     <description>Recent content on Ben Wildgoose&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Aug 2025 09:32:59 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://benwildgoose.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Computer Science and Mathematics Degree</title>
-      <link>http://localhost:1313/portfolio/cs-mathematics-degree/</link>
+      <link>https://benwildgoose.github.io/portfolio/cs-mathematics-degree/</link>
       <pubDate>Fri, 22 Aug 2025 09:32:59 +0100</pubDate>
-      <guid>http://localhost:1313/portfolio/cs-mathematics-degree/</guid>
+      <guid>https://benwildgoose.github.io/portfolio/cs-mathematics-degree/</guid>
       <description>&lt;h2 id=&#34;computer-science-and-mathematics-degree&#34;&gt;Computer Science and Mathematics Degree&lt;/h2&gt;
 &lt;p&gt;University of Bath graduate with a Bachelor of Science degree in Computer Science and Mathematics.&lt;/p&gt;
 &lt;h3 id=&#34;academic-focus&#34;&gt;Academic Focus&lt;/h3&gt;
@@ -54,9 +54,9 @@
     </item>
     <item>
       <title>Language Learning</title>
-      <link>http://localhost:1313/portfolio/language-learning/</link>
+      <link>https://benwildgoose.github.io/portfolio/language-learning/</link>
       <pubDate>Fri, 22 Aug 2025 09:32:59 +0100</pubDate>
-      <guid>http://localhost:1313/portfolio/language-learning/</guid>
+      <guid>https://benwildgoose.github.io/portfolio/language-learning/</guid>
       <description>&lt;h2 id=&#34;language-learning&#34;&gt;Language Learning&lt;/h2&gt;
 &lt;p&gt;I have an ongoing interest in learning foreign languages. My approach tends to focus on understanding the underlying logic and grammar of each language.&lt;/p&gt;
 &lt;h3 id=&#34;languages-studied&#34;&gt;Languages Studied&lt;/h3&gt;
