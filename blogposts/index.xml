@@ -2,35 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ben Wildgoose&#39;s Website</title>
-    <link>https://benwildgoose.github.io/blogposts/</link>
+    <link>http://localhost:1313/blogposts/</link>
     <description>Recent content on Ben Wildgoose&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Aug 2025 17:55:23 +0100</lastBuildDate>
-    <atom:link href="https://benwildgoose.github.io/blogposts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blogposts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reflection on learning languages</title>
+      <link>http://localhost:1313/blogposts/learningalanguage/</link>
+      <pubDate>Mon, 09 Feb 2026 18:13:28 +0000</pubDate>
+      <guid>http://localhost:1313/blogposts/learningalanguage/</guid>
+      <description>&lt;p&gt;Over the past couple of years I&amp;rsquo;ve gotten into studying languages as a hobby. I didn&amp;rsquo;t take any languages at school, apart from the French lessons everyone does in the UK. For a long time it felt impossible to get started. Here&amp;rsquo;s my thoughts on the stuff I&amp;rsquo;ve tried out so far:&lt;/p&gt;
+&lt;center&gt;
+&lt;h3 id=&#34;michel-thomas&#34;&gt;Michel Thomas&lt;/h3&gt;
+&lt;/center&gt;
+&lt;p&gt;This was the most broken strat for getting good at speaking. The whole method goes something like:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Over the past couple of years I&rsquo;ve gotten into studying languages as a hobby. I didn&rsquo;t take any languages at school, apart from the French lessons everyone does in the UK. For a long time it felt impossible to get started. Here&rsquo;s my thoughts on the stuff I&rsquo;ve tried out so far:</p>
+<center>
+<h3 id="michel-thomas">Michel Thomas</h3>
+</center>
+<p>This was the most broken strat for getting good at speaking. The whole method goes something like:</p>
+<ol>
+<li>Learn a tiny bit of new stuff.</li>
+<li>Get asked &ldquo;How would you say {sentence} in {the language your learning}?&rdquo;</li>
+<li>Pause and speak the question out loud (no writing!)</li>
+</ol>
+<p>And the process repeats, with a little bit more complexity added on each iteration. I&rsquo;ve tried it for French, Italian, Spanish and Russian so far. It&rsquo;s an amazing way to get your pronounciation down fast. Give this one a try!</p>
+<center>
+<h3 id="using-a-personal-tutor">Using a personal tutor</h3>
+</center>
+<p>This is probably the most avoided thing in language learning, as a lot of peoples priorities with learning is &ldquo;How can I do this for free / by spending as little as possible&rdquo;. I think this can be a real mistake, as learning anything requires someone more knowledgable to correct mistakes and suggest ways of improving. It&rsquo;s super easy to convince yourself that you understand a piece of grammar, but in reality you&rsquo;re misunderstanding. This creates a bad foundation and more misunderstandings happen down the line.</p>
+<p>Don&rsquo;t bother looking for tutors when your starting out, but once you&rsquo;ve got a basic understanding of simple phrases and vocab I&rsquo;d recommend finding one if you really want to learn the language quickly. It doesn&rsquo;t need to be done often, just having the odd lesson here and there will go a long way.</p>
+<center>
+<h3 id="duolingo-">Duolingo 🤢🤢🤢</h3>
+</center>
+<p>Everyone starts with this and I can confirm that this is OFFICIALLY the worst method hands down. Annoying pop-up notifications, no grammar lessons and a streak mechanic that forces you to play it all the time. Just avoid using this app, it will only make the language learning process more tedious.</p>
+<center>
+<h3 id="grammarmaxxing">Grammarmaxxing</h3>
+</center>
+<p>This is when you take grammar learning to the absolute extreme. Just studying the language as if it&rsquo;s a maths module, no pointless vocab. It&rsquo;s good to do this fairly often (at least a few days per week?) to used to the languages structure. But maybe that&rsquo;s obvious.</p>
+<p>My number 1 tip with grammar is when your learning something new, really work on it until it just slips off your tongue no extra thought required. For example, say your learning about the prepositional case in Russian (usually the first one you learn after nominative). Don&rsquo;t just read when it&rsquo;s used, learn how it changes the noun endings and do a lot of drilling. Maybe just do the singular endings to start, but keep practicing until it requires no extra thinking. When you get to that point, you&rsquo;ve pretty much acquired that part of the grammar and can move onto the next. I made the mistake of rushing through grammar and tried to learn way more than I was ready for.</p>
+<center>
+<h3 id="flashcards">Flashcards</h3>
+</center>
+<p>Solid for learning basic vocab and exceptions to grammar rules. I can&rsquo;t be bothered to set up something like Anki so I write my own on paper flashcards. Just don&rsquo;t over do it, most vocab with just sink into your brain once you see it in use enough times.</p>
+<center>
+<h3 id="immersion">Immersion</h3>
+</center>
+<p>I think Nassim Taleb said something like the best place in learn a language is in a bar. The problem is finding a bar with people who speak that language. Yeah I could just go and live abroad for a while but that&rsquo;s not exactly an easy thing to do. So the alternative most people use are things like:</p>
+<pre><code>- Movies
+- Youtube
+- Music
+- Discord Servers
+- Tandem (App for speaking with natives. Got nerfed pretty hard recently, a paywall appeared for many features.)
+</code></pre>
+<p>just to name a few. I&rsquo;ve found that a lot of this doesn&rsquo;t really help. If your speaking with others, thats for sure a good thing. But just passively listening feels like a waste of time, especially when 90% of it still makes no sense.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Personal Library</title>
-      <link>https://benwildgoose.github.io/blogposts/personal-library/</link>
+      <link>http://localhost:1313/blogposts/personal-library/</link>
       <pubDate>Fri, 22 Aug 2025 09:32:59 +0100</pubDate>
-      <guid>https://benwildgoose.github.io/blogposts/personal-library/</guid>
+      <guid>http://localhost:1313/blogposts/personal-library/</guid>
       <description>&lt;p&gt;Explaining how I built my personal library using Rust.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Explaining how I built my personal library using Rust.</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>Fixing a car battery</title>
-      <link>https://benwildgoose.github.io/blogposts/2025-08-14-fixing-car-battery/</link>
+      <link>http://localhost:1313/blogposts/2025-08-14-fixing-car-battery/</link>
       <pubDate>Thu, 14 Aug 2025 17:55:23 +0100</pubDate>
-      <guid>https://benwildgoose.github.io/blogposts/2025-08-14-fixing-car-battery/</guid>
+      <guid>http://localhost:1313/blogposts/2025-08-14-fixing-car-battery/</guid>
       <description>&lt;p&gt;Here I will show how to fix the car battery in a Vauxhall Astra.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Here I will show how to fix the car battery in a Vauxhall Astra.</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>My first post</title>
-      <link>https://benwildgoose.github.io/blogposts/2025-08-14-my-first-post/</link>
+      <link>http://localhost:1313/blogposts/2025-08-14-my-first-post/</link>
       <pubDate>Thu, 14 Aug 2025 17:55:23 +0100</pubDate>
-      <guid>https://benwildgoose.github.io/blogposts/2025-08-14-my-first-post/</guid>
+      <guid>http://localhost:1313/blogposts/2025-08-14-my-first-post/</guid>
       <description>&lt;p&gt;Post body&amp;hellip;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Post body&hellip;</p>
 ]]></content:encoded>
